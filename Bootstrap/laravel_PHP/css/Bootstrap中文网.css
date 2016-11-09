@@ -1,0 +1,21 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.navbar{
+    border: 1px solid #333;
+    box-shadow: 0 1px 3px gray;
+}
+
+.navbar-header a{
+    margin-top: 0;
+    margin-bottom: -15px;
+}
+.nav li{
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: -20px;
+}
+.about{
+    font-size: 10px;
+}

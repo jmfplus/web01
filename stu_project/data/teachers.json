@@ -1,0 +1,31 @@
+[{
+  "id":101,
+  "name":"李四",
+  "age":21,
+  "gender":"male",
+  "salary":2000
+},{
+  "id":102,
+  "name":"王敏",
+  "age":23,
+  "gender":"female",
+  "salary":3000
+},{
+  "id":103,
+  "name":"张三",
+  "age":19,
+  "gender":"male",
+  "salary":2700
+},{
+  "id":104,
+  "name":"李斯",
+  "age":25,
+  "gender":"male",
+  "salary":3400
+},{
+  "id":105,
+  "name":"李清爱",
+  "age":22,
+  "gender":"female",
+  "salary":2900
+}]
